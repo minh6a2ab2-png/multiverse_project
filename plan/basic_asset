@@ -1,0 +1,282 @@
+Để nhìn được thế giới tổng quan trước, bạn chỉ cần một World Visualization Pack rất gọn. Chưa cần animation đầy đủ, item, UI chi tiết hay hàng chục loại quái. Mục tiêu là nhìn một lượt đã hiểu: Nexus là gì, các thế giới nằm ở đâu, boss nào đại diện khu vực nào, Grail Gate ở đâu và phong cách tổng thể ra sao.
+Bộ asset cơ bản nên chuẩn bị trước
+Nhóm	Asset tối thiểu	Mục đích
+Nhân vật chính	Ichigo – 1 ảnh full-body	Làm chuẩn tỷ lệ nhân vật
+Boss	Majin Buu	Đại diện Chaos World
+Boss	Squad Zero – có thể dùng 1 ảnh nhóm	Đại diện Soul World
+Boss	Madara	Đại diện Shinobi World
+Boss	Optimus Prime	Đại diện Cybertron
+Boss	Darth Vader	Đại diện Force World
+Boss	Thanos	Đại diện Cosmic World
+Boss	Harry Potter	Đại diện Magic World
+Thế giới trung tâm	Nexus overview	Một ảnh toàn cảnh chính
+Trung tâm	Grail Gate	Landmark quan trọng nhất
+Khu vực	Soul Palace	1 background concept
+Khu vực	Infinite Battlefield	Madara area
+Khu vực	Cybertron Graveyard	Optimus area
+Khu vực	Abyss of the Force	Vader area
+Khu vực	Titan's Domain	Thanos area
+Khu vực	Arcane Citadel	Harry area
+Khu vực	Chaos Womb	Buu area
+Hiệu ứng	Multiverse Portal	1 portal cơ bản
+Hiệu ứng	Fading	biểu diễn thế giới bị xóa
+Hiệu ứng	Chronal / Save-Load	đại diện quyền năng Player
+Bản đồ	World Map của Nexus	xem bố cục tổng thể
+Như vậy thực tế chỉ khoảng 20 asset chính.
+________________________________________
+1. Asset quan trọng nhất: Nexus Overview
+Hãy làm một concept art lớn trước tiên.
+Nó nên cho thấy Nexus là một thế giới bị ghép từ nhiều thực tại.
+Ở trung tâm:
+Grail Gate
+Xung quanh là những vùng đất khổng lồ nối vào nhau.
+Ví dụ bố cục:
+                      SOUL PALACE
+                          │
+                          │
+        CYBERTRON ─── GRAIL GATE ─── SHINOBI
+                          │
+                          │
+              ┌───────────┼───────────┐
+              │           │           │
+            FORCE       TITAN       ARCANE
+
+                         ↓
+
+                    CHAOS WOMB
+Không cần map gameplay chính xác.
+Chỉ cần giúp bạn nhìn được:
+“À, đây là thế giới game của mình.”
+________________________________________
+2. Grail Gate
+Nếu chỉ có thời gian làm đẹp một asset, hãy làm cái này.
+Grail Gate nên là landmark mà Player có thể nhìn thấy từ rất xa.
+Concept đơn giản:
+•	cổng khổng lồ;
+•	màu tối;
+•	hình tròn hoặc vòng cung;
+•	các vòng năng lượng;
+•	không gian bên trong gần như đen hoàn toàn;
+•	thỉnh thoảng có glitch giống màn hình;
+•	các mảnh đất bay xung quanh.
+Nó phải khác hoàn toàn các thế giới còn lại.
+________________________________________
+3. Nexus Ground
+Bạn cần một background trung tính để nối các khu vực.
+Không nên giống bất kỳ franchise nào.
+Có thể là:
+ancient sci-fi ruins
+kết hợp:
+•	đá đen;
+•	kim loại cổ;
+•	các đường năng lượng phát sáng;
+•	cột đá khổng lồ;
+•	floating rocks;
+•	dimension cracks.
+Nhờ đó khi bước từ Star Wars sang Naruto, game vẫn cảm thấy thuộc cùng một thế giới.
+________________________________________
+4. Soul Palace
+Không cần dựng cả Soul Society.
+Chỉ cần một concept:
+•	cung điện trên cao;
+•	mây;
+•	kiến trúc trắng;
+•	cầu dài;
+•	Reishi particles;
+•	các platform nổi.
+Boss:
+Squad Zero
+đứng ở cuối khu vực.
+________________________________________
+5. Infinite Battlefield
+Khu của Madara.
+Visual:
+•	chiến trường khổng lồ;
+•	mặt đất nứt;
+•	núi bị phá;
+•	cây chết;
+•	tượng đá;
+•	chakra đỏ/tím;
+•	silhouette Susanoo phía xa.
+Chỉ cần nhìn là hiểu:
+“đây là chiến trường của Shinobi World.”
+________________________________________
+6. Cybertron Graveyard
+Một trong những map nên có scale lớn nhất.
+Visual:
+•	robot khổng lồ bị phá hủy;
+•	tàu chiến;
+•	thành phố kim loại;
+•	Energon crystal;
+•	máy móc vẫn hoạt động;
+•	Optimus đứng rất nhỏ giữa khung cảnh.
+Điều này làm Cybertron có cảm giác khác hẳn các vùng còn lại.
+________________________________________
+7. Abyss of the Force
+Khu của Vader.
+Không cần quá nhiều thứ.
+Visual tối:
+•	hành lang đen;
+•	platform không gian;
+•	Star Destroyer ở xa;
+•	red lights;
+•	vực sâu;
+•	khói;
+•	một số công trình bị Nexus ăn mòn.
+Vader có thể xuất hiện ở cuối hành lang.
+________________________________________
+8. Titan's Domain
+Khu Thanos.
+Nên tạo cảm giác cosmic.
+•	hành tinh vỡ;
+•	đá nổi;
+•	nebula;
+•	mặt đất tím/xám;
+•	tượng khổng lồ;
+•	cosmic energy.
+Thanos ngồi trên một cấu trúc giống throne ở xa.
+________________________________________
+9. Arcane Citadel
+Khu Harry Potter.
+Không nên copy nguyên Hogwarts.
+Hãy làm một magic world bị Nexus tái cấu trúc:
+•	lâu đài;
+•	tháp;
+•	cầu đá;
+•	floating books;
+•	candles;
+•	moving staircases;
+•	magic glyph;
+•	bầu trời kỳ lạ.
+Như vậy vẫn nhận ra Wizarding World nhưng hòa vào game hơn.
+________________________________________
+10. Chaos Womb
+Khu Buu nên phá vỡ toàn bộ logic visual.
+Ví dụ:
+•	đường cong;
+•	đất giống organic tissue;
+•	vật thể bị kéo giãn;
+•	candy structures;
+•	portal méo mó;
+•	những mảnh thành phố bị hấp thụ vào môi trường.
+Đây nên là nơi Player cảm giác:
+Nexus đang bị ăn.
+________________________________________
+11. Một Portal chung
+Đừng làm bảy portal ngay.
+Chỉ cần một portal base:
+•	vòng tròn;
+•	distortion;
+•	particles;
+•	ánh sáng trung tâm.
+Sau đó đổi:
+•	màu;
+•	symbol;
+•	particle.
+là đủ để sử dụng cho các world khác nhau.
+________________________________________
+12. Fading Effect
+Bạn chỉ cần một texture/effect để thử.
+Ví dụ vật thể:
+normal
+↓
+mất màu
+↓
+trắng dần
+↓
+vỡ thành các ô / fragment
+↓
+biến mất
+Hãy dùng effect này trên:
+•	cây;
+•	nhà;
+•	NPC;
+•	mặt đất.
+Nó sẽ giúp toàn bộ thế giới có chung một mối đe dọa.
+________________________________________
+13. Chronal Effect
+Một hiệu ứng duy nhất đại diện Player:
+•	bóng nhân vật lặp lại;
+•	afterimage;
+•	đường thời gian;
+•	glitch nhẹ.
+Dùng khi:
+Save.
+Load.
+Retry.
+Player interaction.
+Chưa cần tách thành bốn effect.
+________________________________________
+14. Ichigo
+Giai đoạn này chỉ cần:
+1 full-body neutral pose
+và nếu muốn:
+1 combat pose.
+Chưa cần animation.
+Nên đặt Ichigo vào tất cả concept art để kiểm tra tỷ lệ.
+Ví dụ Grail Gate nên cao khoảng hàng chục lần nhân vật.
+________________________________________
+15. Boss
+Tương tự.
+Mỗi boss chỉ cần:
+1 concept pose.
+Không animation.
+Không skill effect.
+Không cần biến thể.
+Bạn chỉ đang kiểm tra:
+•	silhouette;
+•	size;
+•	màu;
+•	vị trí trong thế giới.
+________________________________________
+16. World Map
+Sau Nexus Overview, asset thứ hai tôi sẽ làm chính là bản đồ.
+Không cần chi tiết.
+Ví dụ:
+                    [SOUL PALACE]
+                          |
+                          |
+ [CYBERTRON] ------- [NEXUS CORE] ------- [SHINOBI]
+                          |
+                      [GRAIL GATE]
+                          |
+            -----------------------------
+            |             |             |
+         [FORCE]       [TITAN]       [ARCANE]
+                          |
+                       [CHAOS]
+Khi nhìn bản đồ này, bạn sẽ dễ thiết kế progression game hơn rất nhiều.
+________________________________________
+17. Bộ màu concept
+Bạn nên quy định màu nhận diện sơ bộ.
+Không cần tuyệt đối:
+Khu	Tone
+Nexus	Black / Gold / White
+Soul	White / Blue
+Shinobi	Red / Brown
+Cybertron	Metal / Cyan
+Force	Black / Red
+Titan	Purple / Cosmic
+Arcane	Blue / Green / Gold
+Chaos	Pink / Purple
+Nhờ vậy chỉ cần screenshot là Player nhận ra đang ở khu vực nào.
+________________________________________
+Bộ asset tôi thực sự khuyên bạn làm ngay
+Nếu muốn cực gọn, thậm chí chỉ cần 14 ảnh:
+1.	Nexus – toàn cảnh
+2.	Grail Gate
+3.	World Map
+4.	Ichigo
+5.	Soul Palace + Squad Zero
+6.	Infinite Battlefield + Madara
+7.	Cybertron Graveyard + Optimus
+8.	Abyss of the Force + Vader
+9.	Titan's Domain + Thanos
+10.	Arcane Citadel + Harry
+11.	Chaos Womb + Buu
+12.	Multiverse Portal
+13.	Fading Effect
+14.	Chronal/Player Effect
+Chỉ cần bộ này là bạn đã có thể đặt tất cả lên một moodboard và nhìn được gần như toàn bộ hướng nghệ thuật của game.
+Tôi khuyên chưa làm bất kỳ inventory, item, skill icon, NPC thường hay animation nào ở giai đoạn này. Khóa visual của 7 vùng + Nexus + Grail Gate trước, sau đó mới bắt đầu sản xuất asset gameplay.
+
