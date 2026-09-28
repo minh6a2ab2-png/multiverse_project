@@ -1,0 +1,367 @@
+Cách chia như vậy hợp lý hơn rất nhiều. Nếu Temporal Memory, Retry Stress và Boss Adaptation đều bị ẩn, người chơi sẽ cảm thấy thế giới “thật sự nhớ mình” thay vì nhìn thấy ba thanh chỉ số game hóa. Còn Observer Intervention nên là hệ thống mà người chơi chủ động học, nâng cấp và sử dụng xuyên suốt game.
+Tôi sẽ cấu trúc game như sau.
+Observer Intervention = cơ chế lõi
+Player không trực tiếp sở hữu kỹ năng chiến đấu của Ichigo. Ichigo có bộ combat riêng, còn Player sở hữu một hệ năng lực hoàn toàn khác gọi là:
+Observer Intervention — Can thiệp của Người Quan Sát
+Ý tưởng cốt lõi là:
+Ichigo tác động lên vật chất trong thế giới.
+Player tác động lên timeline và luật của thế giới.
+Như vậy hai hệ thống chiến đấu bổ sung cho nhau chứ không trùng nhau.
+________________________________________
+1. Ba nhóm Observer Intervention
+Tôi nghĩ nên chia thành ba nhánh rất rõ.
+Nhánh	Chức năng
+Observe	Nhìn thấy thông tin ngoài khả năng của Ichigo
+Intervene	Can thiệp tức thời vào timeline
+Rewrite	Thay đổi một phần diễn biến đã xảy ra
+OBSERVE
+Đây là nhánh cơ bản nhất.
+Player có thể kích hoạt Observer Sight.
+Thế giới chậm lại nhẹ và xuất hiện những thông tin bình thường không thấy được:
+•	weak point;
+•	đường tấn công;
+•	vật thể có thể tương tác;
+•	Chronal Echo;
+•	Anchor của boss;
+•	dấu vết từ timeline trước;
+•	những thứ đang bị Fading;
+•	hidden path.
+Quan trọng là đây không phải Detective Vision đơn thuần.
+Player nhìn thấy những thứ này bởi vì Player đang đứng ngoài timeline.
+Ví dụ một cây cầu sắp sập.
+Ichigo chỉ thấy cây cầu.
+Player có thể thấy:
+COLLAPSE PROBABILITY: HIGH
+hoặc một bóng mờ cho thấy vài giây sau nó sẽ sập.
+________________________________________
+2. Temporal Step
+Skill Observer đầu tiên nên rất đơn giản:
+Temporal Step
+Player đưa Ichigo trở lại vị trí khoảng 1–2 giây trước.
+Không hồi toàn bộ trận đấu.
+Chỉ:
+•	vị trí;
+•	momentum;
+•	một phần trạng thái.
+Ví dụ:
+Ichigo bị boss đánh bay.
+Player dùng Temporal Step.
+Ichigo lập tức xuất hiện ở vị trí trước đó.
+Boss vẫn đang hoàn thành animation.
+→ cơ hội phản công.
+Đây có thể trở thành một mechanic cực kỳ đã tay.
+________________________________________
+3. Temporal Recall
+Bản nâng cấp mạnh hơn.
+Recall 3–5 giây.
+Ví dụ:
+Ichigo bị trúng combo.
+HP còn 20%.
+Player Recall.
+Ichigo quay lại trạng thái trước combo:
+80% HP.
+Nhưng boss không nhất thiết mất ký ức về những gì vừa xảy ra.
+Và đây chính là nơi cơ chế ẩn Temporal Memory bắt đầu tác động.
+Player tưởng mình đã xóa sai lầm.
+Boss thì:
+có thể đã học được nó.
+________________________________________
+4. Observer Pause
+Không phải pause menu.
+Một skill thật.
+Player kích hoạt:
+Observer Pause
+Thời gian gần như đứng lại trong một khoảng cực ngắn.
+Ichigo không thể tự do chạy khắp map.
+Player chỉ có thể:
+•	quan sát;
+•	đổi target;
+•	chọn intervention;
+•	đánh dấu weak point;
+•	lên kế hoạch.
+Sau đó thời gian chạy lại.
+Nó tạo cảm giác:
+Player thật sự đang đứng ngoài dòng thời gian.
+________________________________________
+5. Echo Replay
+Đây nên là một trong những ability biểu tượng của game.
+Player ghi lại vài giây hành động của Ichigo.
+Ví dụ:
+Ichigo:
+Dash → Slash → Getsuga.
+Sau đó Player kích hoạt:
+Echo Replay
+Một Chronal Echo của Ichigo tái hiện chuỗi hành động đó.
+Trong khi Ichigo thật có thể làm việc khác.
+Ví dụ:
+Timeline A:
+Ichigo → Slash boss từ bên trái
+
+Hiện tại:
+Echo → Slash từ bên trái
+Ichigo → tấn công từ bên phải
+Player về sau có thể phối hợp với chính những hành động trong quá khứ của mình.
+Rất phù hợp với ý tưởng Observer.
+________________________________________
+6. Temporal Anchor
+Player đặt:
+Anchor
+tại một trạng thái cụ thể.
+Ví dụ:
+•	HP 80%;
+•	đứng phía sau boss;
+•	skill cooldown đã sẵn sàng.
+Sau đó tiếp tục đánh.
+20 giây sau Player có thể:
+Return to Anchor.
+Nhưng nên giới hạn:
+•	chỉ 1 Anchor;
+•	tiêu tốn Observer Energy;
+•	boss mạnh có thể phá Anchor.
+Và một số boss thậm chí có thể nhìn thấy Anchor.
+Madara chẳng hạn:
+“Ngươi định quay lại chỗ đó sao?”
+Sau đó hắn đặt bẫy ngay tại Anchor.
+________________________________________
+7. Causality Break
+Đây là ability mid-game.
+Player không quay ngược thời gian.
+Thay vào đó:
+xóa kết quả của một sự kiện nhưng giữ nguyên nguyên nhân.
+Ví dụ:
+Boss chém Ichigo.
+Ichigo nhận damage.
+Player dùng Causality Break.
+Animation boss vẫn đã xảy ra.
+Nhưng:
+damage bị xóa.
+Hoặc Ichigo bị knockback.
+Player xóa:
+knockback consequence.
+Boss vẫn đã thực hiện đòn đánh.
+Nhưng kết quả không còn.
+Mechanic này rất “Holy Grail” mà vẫn khác Recall.
+________________________________________
+8. Probability Intervention
+Về sau Player bắt đầu can thiệp vào những khả năng chưa xảy ra.
+Ví dụ boss chuẩn bị sử dụng một trong ba attack.
+Observer Vision cho thấy:
+Attack A — 50%
+Attack B — 30%
+Attack C — 20%
+Player dùng:
+Probability Lock
+ép timeline đi vào Attack C.
+Đây không chỉ mạnh trong combat.
+Puzzle cũng có thể sử dụng.
+Ví dụ:
+một cánh cửa cổ có 15% khả năng còn hoạt động.
+Player khóa timeline trong đó nó vẫn hoạt động.
+________________________________________
+9. Object Recall
+Observer Intervention không nên chỉ dùng khi đánh boss.
+Ví dụ:
+Cầu đã sập.
+Player nhìn Chronal Echo của cây cầu.
+Sử dụng:
+Object Recall
+→ cây cầu trở lại trạng thái trước đó trong 10 giây.
+Ichigo chạy qua.
+Sau đó nó lại sụp.
+Hoặc:
+cánh cửa đã bị phá;
+thang máy hỏng;
+bức tường từng tồn tại;
+platform từng ở vị trí khác.
+Player có thể tạm thời kéo phiên bản quá khứ của vật thể vào hiện tại.
+Đây sẽ là cơ chế puzzle rất đặc trưng.
+________________________________________
+10. Parallel Echo
+Late game.
+Player không chỉ gọi quá khứ.
+Player gọi:
+một khả năng khác của timeline.
+Ví dụ trong timeline hiện tại:
+Ichigo đi bên phải.
+Player tạo Parallel Echo:
+một Ichigo từ timeline mà cậu đã đi bên trái xuất hiện trong vài giây.
+Hai Ichigo cùng đánh.
+Không phải clone.
+Mà là:
+hai khả năng cùng tồn tại tạm thời.
+________________________________________
+11. Observer Energy
+Để tránh spam Intervention, cần một resource.
+Tôi sẽ không gọi Mana.
+Tên có thể là:
+Observation
+hoặc
+Grail Authority
+Ví dụ:
+OBSERVER AUTHORITY
+████████░░
+Nó hồi lại khi Ichigo:
+•	parry thành công;
+•	dodge chính xác;
+•	phá weak point;
+•	combo tốt;
+•	đánh Anchor;
+•	hoàn thành interaction đặc biệt.
+Như vậy Ichigo chơi tốt → Player có nhiều quyền can thiệp hơn.
+Player can thiệp tốt → Ichigo chiến đấu hiệu quả hơn.
+Hai hệ thống hỗ trợ nhau.
+________________________________________
+12. Observer Intervention trong exploration
+Đây là điều tôi nghĩ rất quan trọng.
+Nếu chỉ dùng trong combat, nó sẽ giống một bộ skill thời gian.
+Hãy dùng xuyên suốt game.
+Khám phá
+Observer Sight:
+thấy đường đã từng tồn tại.
+Platform
+Object Recall:
+khôi phục platform.
+Puzzle
+Pause:
+quan sát cơ chế.
+Investigation
+Chronal Echo:
+xem lại sự kiện cũ.
+Dialogue
+Player đôi khi nhìn thấy:
+những câu nói NPC từng nói trong timeline đã bị Load.
+Ví dụ NPC nói:
+“Tôi chưa từng gặp anh.”
+Observer Sight:
+ECHO: “Xin đừng giết tôi.”
+Player lập tức thấy rất khó chịu.
+Và rất thú vị.
+________________________________________
+Các cơ chế ẩn của bạn
+Ba hệ thống bạn chọn làm cơ chế ngầm nên tuyệt đối không hiện thành thanh chỉ số.
+Temporal Memory
+Không có:
+MEMORY = 72%
+Thay vào đó thể hiện qua hành vi.
+Retry 1:
+Boss bình thường.
+Retry 3:
+Boss:
+“Déjà vu…”
+Retry 5:
+Boss bắt đầu né một skill quen thuộc.
+Retry 10:
+“Ngươi nghĩ ta không nhớ sao?”
+Player tự phát hiện mechanic.
+________________________________________
+Timeline Stress
+Cũng không có thanh:
+TIMELINE STABILITY: 54%
+Thay vào đó:
+Retry càng nhiều:
+•	âm thanh glitch nhẹ;
+•	NPC quay đầu nhìn Ichigo;
+•	Chronal Echo xuất hiện;
+•	vài object sai vị trí;
+•	môi trường có khe nứt;
+•	quái Temporal xuất hiện.
+Player bắt đầu tự hỏi:
+“Có phải vì mình Retry quá nhiều?”
+Đúng.
+Nhưng game không xác nhận ngay.
+________________________________________
+Boss Adaptation
+Cũng ẩn hoàn toàn.
+Ví dụ Player luôn:
+Dodge right
+→ 3-hit combo
+→ skill
+Sau vài Retry:
+boss cố tình delay attack.
+Player dodge right.
+Boss đổi hướng.
+Player:
+“Khoan…”
+Đây mới là cảm giác bạn muốn.
+Không phải:
+Boss Adaptation +10%.
+________________________________________
+Mối quan hệ giữa 4 hệ thống
+Thiết kế đẹp nhất sẽ là:
+                   PLAYER
+                     │
+                     ▼
+          OBSERVER INTERVENTION
+             [CƠ CHẾ CHÍNH]
+                     │
+        ┌────────────┼─────────────┐
+        ▼            ▼             ▼
+   Save/Retry    Timeline       Combat
+                     │
+                     ▼
+          ┌───────────────────┐
+          │ HIDDEN SYSTEMS    │
+          │                   │
+          │ Temporal Memory   │
+          │ Timeline Stress   │
+          │ Boss Adaptation   │
+          └───────────────────┘
+                     │
+                     ▼
+                WORLD REACTS
+Điểm hay là:
+Player càng sử dụng sức mạnh đặc trưng của mình, thế giới càng bắt đầu nhận thức được Player.
+Đó chính là cách gameplay tự kể câu chuyện.
+________________________________________
+Progression tôi đề xuất
+Không mở tất cả ngay.
+Chapter 1
+Chỉ có:
+Observer Sight
+Player nghĩ đây đơn giản là game mechanic.
+________________________________________
+Chapter 2
+Mở:
+Temporal Step
+________________________________________
+Chapter 3
+Mở:
+Echo Replay
+NPC bắt đầu xuất hiện Temporal Memory.
+________________________________________
+Chapter 4
+Mở:
+Temporal Anchor
+Boss bắt đầu Adaptation rõ hơn.
+________________________________________
+Grail Reveal
+Player phát hiện:
+những skill mình sử dụng từ đầu game thực chất là quyền năng của Holy Grail.
+Đây là điểm rất quan trọng:
+Player đã sử dụng Holy Grail hàng chục giờ—
+nhưng vẫn đi tìm Holy Grail.
+________________________________________
+Nửa sau
+Mở:
+•	Object Recall
+•	Causality Break
+•	Probability Intervention
+•	Parallel Echo
+Sức mạnh ngày càng “phi vật lý”.
+Bởi Player đã hiểu mình thực sự là gì.
+________________________________________
+Một nguyên tắc tôi khuyên giữ
+Observer Intervention không được biến thành “time magic”.
+Ichigo không học phép thời gian.
+Không có nhân vật trong Nexus đơn giản làm giống Player.
+Đây phải là một bộ luật riêng biệt.
+Ví dụ Madara có thể cực mạnh.
+Thanos có thể tác động lên thực tại.
+Vader có Force.
+Harry có Magic.
+Nhưng chỉ Player có thể:
+đối xử với timeline như một thứ có thể Save, Load và chỉnh sửa.
+Đó là thứ khiến Player thực sự cảm thấy mình là Holy Grail.
+Và nếu triển khai đúng, cú twist giữa game sẽ mạnh hơn rất nhiều vì người chơi nhận ra:
+“Mình không vừa nhận được sức mạnh của Holy Grail. Mình đã dùng nó từ phút đầu tiên của game.”
+
